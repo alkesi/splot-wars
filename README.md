@@ -9,9 +9,11 @@ WHAT LIBRARIES YOU WILL NEED:
 -Python 3.x
 -NumPy
 -PyGame
+
 HOW TO RUN:
 As of now, there is no executable or any othe way to run than through the Terminal(Unix, Linux)
 or the Command Prompt(Windows)
+
 UNIX/LINUX/WINDOWS:
 -navigate to the folder in terminal/command prompt using cd
 -use "python3 splot_wars.py" to run
